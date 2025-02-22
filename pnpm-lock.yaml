@@ -80,9 +80,9 @@ importers:
       hls.js:
         specifier: ^1.5.17
         version: 1.5.17
-      ioredis:
-        specifier: ^5.4.2
-        version: 5.4.2
+      mongoose:
+        specifier: ^7.5.4
+        version: 7.5.4
       lucide-react:
         specifier: ^0.453.0
         version: 0.453.0(react@19.0.0)
